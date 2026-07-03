@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.venv/
+
+# C / CMake
+build/
+
+# OS
+.DS_Store
